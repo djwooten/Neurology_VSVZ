@@ -1,0 +1,1 @@
+This respository contains source files for bioinformatic analysis and figure generation for "Glioblastoma Contact with the Ventricular-Subventricular Zone Independently Predicts Survival" by A.Mistry, et. al. Users should download gene expression / methylation / etc. data from TCGA - the code here is intended as a template which should be pointed to the appropriate data file.
